@@ -1,0 +1,11 @@
+{
+  "name": "boinx-mimolive",
+  "version": "1.0.0",
+  "description": "Boinx Mimolive plugin for Companion",
+  "main": "mimolive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfie Pates",
+  "license": "MIT"
+}
